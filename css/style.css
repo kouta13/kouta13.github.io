@@ -1,0 +1,125 @@
+body{
+  background-image: url(../images/FF_sprites.png);
+  background-attachment: fixed;
+}
+.jumbotron h1{
+  text-align: center;
+}
+.navbar-fixed-top {
+  border: 0;
+}
+.like{
+  border: solid 3px #011F36;
+  background-color: white;
+  border-radius: 35px
+}
+#serie{
+  height: auto;
+  overflow: auto;
+}
+#img-cron{
+  float: left;
+  display: none;
+}
+#img-tel{
+  display: none;
+}
+#sec-cont{
+  width: 100%;
+  overflow: auto;
+}
+.cont1{
+  width: 40%;
+  float: left;
+
+}
+.cont2{
+  width: 40%;
+  float: left;
+
+}
+#foto{
+  border: 2px solid #011F36;
+  margin: 0;
+  padding: 0;
+  border-radius: 800px;
+}
+#img-cont{
+  border: 2px solid #011F36;
+  margin: 0;
+  padding: 0;
+  border-radius: 800px;
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+}
+#icon-face{
+  color: #0A6EBB;
+}
+#icon-gplus{
+  color: #651008;
+}
+#icon-git{
+  color: #5e27ad;
+}
+#icon-what{
+  color: #117e04;
+}
+
+p{
+  text-align: justify;
+}
+.main{
+  background-color: #0A6EBB;
+  color: black;
+}
+main{
+  border: solid 3px #011F36;
+  background-color: white;
+}
+footer{
+  background-color: #82e1fa;
+  text-align: right;
+}
+.sidebar {
+  position: fixed;
+  border: solid 1px #82e1fa;
+}
+/*jobs*/
+#jobs{
+  width: auto;
+  height: 1200px;
+  overflow: auto;
+}
+.r1{
+  width: 100%;
+  height: 25%;
+  border: solid 1px black;
+  overflow: auto;
+  margin: 0;
+  padding: 0;
+}
+.k11{
+  float: left;
+  width: 33.33%;
+  height: 100%;
+  border: solid 1px red;
+  margin: 0;
+
+}
+.k12{
+  float: left;
+  width: 33.33%;
+  height: 100%;
+  border: solid 1px blue;
+  margin: 0;
+
+}
+.k13{
+  float: left;
+  width: 33.33%;
+  height: 100%;
+  border: solid 1px green;
+  margin: 0;
+
+}
